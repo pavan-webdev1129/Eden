@@ -1,0 +1,41 @@
+.cards {
+    display: flex;
+    justify-content: center;
+}
+
+.card-one {
+    width: 120px;
+    height: 140px;
+    border: 1px solid #8b5cfc;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 15px;
+}
+
+.card-txt {
+    font-size: 14px;
+    padding: 5px 0px;
+}
+
+.card-txt-2 {
+    font-size: 14px;
+    padding: 10px 0px 10px 0px;
+    color: gray;
+}
+
+.card-two {
+    width: 120px;
+    height: 140px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin: 15px;
+}
+
+
+
+
+
+
+
+
